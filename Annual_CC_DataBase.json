@@ -1,0 +1,2592 @@
+{
+    "_default": {
+        "1": {
+            "Service_code_Fee.csv": {
+                "code": "A007",
+                "fee": "37.95"
+            }
+        },
+        "2": {
+            "Service_code_Fee.csv": {
+                "code": "A003",
+                "fee": "87.35"
+            }
+        },
+        "3": {
+            "Service_code_Fee.csv": {
+                "code": "A004",
+                "fee": "38.35"
+            }
+        },
+        "4": {
+            "Service_code_Fee.csv": {
+                "code": "A008",
+                "fee": "13.05"
+            }
+        },
+        "5": {
+            "Service_code_Fee.csv": {
+                "code": "E080",
+                "fee": "25.25"
+            }
+        },
+        "6": {
+            "Service_code_Fee.csv": {
+                "code": "K013",
+                "fee": "70.10"
+            }
+        },
+        "7": {
+            "Service_code_Fee.csv": {
+                "code": "K005",
+                "fee": "70.10"
+            }
+        },
+        "8": {
+            "Service_code_Fee.csv": {
+                "code": "K002",
+                "fee": "70.10"
+            }
+        },
+        "9": {
+            "Service_code_Fee.csv": {
+                "code": "K007",
+                "fee": "70.10"
+            }
+        },
+        "10": {
+            "Service_code_Fee.csv": {
+                "code": "K033",
+                "fee": "49.35"
+            }
+        },
+        "11": {
+            "Service_code_Fee.csv": {
+                "code": "K040",
+                "fee": "70.10"
+            }
+        },
+        "12": {
+            "Service_code_Fee.csv": {
+                "code": "K041",
+                "fee": "50.20"
+            }
+        },
+        "13": {
+            "Service_code_Fee.csv": {
+                "code": "K623",
+                "fee": "117.05"
+            }
+        },
+        "14": {
+            "Service_code_Fee.csv": {
+                "code": "K028",
+                "fee": "70.10"
+            }
+        },
+        "15": {
+            "Service_code_Fee.csv": {
+                "code": "K022",
+                "fee": "70.10"
+            }
+        },
+        "16": {
+            "Service_code_Fee.csv": {
+                "code": "A005",
+                "fee": "87.90"
+            }
+        },
+        "17": {
+            "Service_code_Fee.csv": {
+                "code": "A911",
+                "fee": "50.70"
+            }
+        },
+        "18": {
+            "Service_code_Fee.csv": {
+                "code": "A912",
+                "fee": "226.05"
+            }
+        },
+        "19": {
+            "Service_code_Fee.csv": {
+                "code": "K730",
+                "fee": "32.45"
+            }
+        },
+        "20": {
+            "Service_code_Fee.csv": {
+                "code": "K731",
+                "fee": "41.85"
+            }
+        },
+        "21": {
+            "Service_code_Fee.csv": {
+                "code": "K738",
+                "fee": "16.00"
+            }
+        },
+        "22": {
+            "Service_code_Fee.csv": {
+                "code": "K739",
+                "fee": "20.50"
+            }
+        },
+        "23": {
+            "Service_code_Fee.csv": {
+                "code": "K732",
+                "fee": "32.45"
+            }
+        },
+        "24": {
+            "Service_code_Fee.csv": {
+                "code": "K733",
+                "fee": "41.85"
+            }
+        },
+        "25": {
+            "Service_code_Fee.csv": {
+                "code": "A888",
+                "fee": "37.95"
+            }
+        },
+        "26": {
+            "Service_code_Fee.csv": {
+                "code": "Q888",
+                "fee": "37.95"
+            }
+        },
+        "27": {
+            "Service_code_Fee.csv": {
+                "code": "Q012",
+                "fee": "30%"
+            }
+        },
+        "28": {
+            "Service_code_Fee.csv": {
+                "code": "Q016",
+                "fee": "30%"
+            }
+        },
+        "29": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "0",
+                "Base Rate": "138;79",
+                "Comp Care Fee": "30;08",
+                "Access Bonus": "25;8",
+                "Total": "194;67"
+            }
+        },
+        "30": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "1",
+                "Base Rate": "138;79",
+                "Comp Care Fee": "30;08",
+                "Access Bonus": "25;8",
+                "Total": "194;67"
+            }
+        },
+        "31": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "2",
+                "Base Rate": "138;79",
+                "Comp Care Fee": "30;08",
+                "Access Bonus": "25;8",
+                "Total": "194;67"
+            }
+        },
+        "32": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "3",
+                "Base Rate": "138;79",
+                "Comp Care Fee": "30;08",
+                "Access Bonus": "25;8",
+                "Total": "194;67"
+            }
+        },
+        "33": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "4",
+                "Base Rate": "138;79",
+                "Comp Care Fee": "30;08",
+                "Access Bonus": "25;8",
+                "Total": "194;67"
+            }
+        },
+        "34": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "5",
+                "Base Rate": "75;87",
+                "Comp Care Fee": "16;08",
+                "Access Bonus": "14;1",
+                "Total": "106;05"
+            }
+        },
+        "35": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "6",
+                "Base Rate": "75;87",
+                "Comp Care Fee": "16;08",
+                "Access Bonus": "14;1",
+                "Total": "106;05"
+            }
+        },
+        "36": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "7",
+                "Base Rate": "75;87",
+                "Comp Care Fee": "16;08",
+                "Access Bonus": "14;1",
+                "Total": "106;05"
+            }
+        },
+        "37": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "8",
+                "Base Rate": "75;87",
+                "Comp Care Fee": "16;08",
+                "Access Bonus": "14;1",
+                "Total": "106;05"
+            }
+        },
+        "38": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "9",
+                "Base Rate": "75;87",
+                "Comp Care Fee": "16;08",
+                "Access Bonus": "14;1",
+                "Total": "106;05"
+            }
+        },
+        "39": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "10",
+                "Base Rate": "65;76",
+                "Comp Care Fee": "13;7",
+                "Access Bonus": "12;22",
+                "Total": "91;68"
+            }
+        },
+        "40": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "11",
+                "Base Rate": "65;76",
+                "Comp Care Fee": "13;7",
+                "Access Bonus": "12;22",
+                "Total": "91;68"
+            }
+        },
+        "41": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "12",
+                "Base Rate": "65;76",
+                "Comp Care Fee": "13;7",
+                "Access Bonus": "12;22",
+                "Total": "91;68"
+            }
+        },
+        "42": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "13",
+                "Base Rate": "65;76",
+                "Comp Care Fee": "13;7",
+                "Access Bonus": "12;22",
+                "Total": "91;68"
+            }
+        },
+        "43": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "14",
+                "Base Rate": "65;76",
+                "Comp Care Fee": "13;7",
+                "Access Bonus": "12;22",
+                "Total": "91;68"
+            }
+        },
+        "44": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "15",
+                "Base Rate": "114;17",
+                "Comp Care Fee": "24;42",
+                "Access Bonus": "21;22",
+                "Total": "159;81"
+            }
+        },
+        "45": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "16",
+                "Base Rate": "114;17",
+                "Comp Care Fee": "24;42",
+                "Access Bonus": "21;22",
+                "Total": "159;81"
+            }
+        },
+        "46": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "17",
+                "Base Rate": "114;17",
+                "Comp Care Fee": "24;42",
+                "Access Bonus": "21;22",
+                "Total": "159;81"
+            }
+        },
+        "47": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "18",
+                "Base Rate": "114;17",
+                "Comp Care Fee": "24;42",
+                "Access Bonus": "21;22",
+                "Total": "159;81"
+            }
+        },
+        "48": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "19",
+                "Base Rate": "114;17",
+                "Comp Care Fee": "24;42",
+                "Access Bonus": "21;22",
+                "Total": "159;81"
+            }
+        },
+        "49": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "20",
+                "Base Rate": "142;37",
+                "Comp Care Fee": "30;97",
+                "Access Bonus": "26;47",
+                "Total": "199;81"
+            }
+        },
+        "50": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "21",
+                "Base Rate": "142;37",
+                "Comp Care Fee": "30;97",
+                "Access Bonus": "26;47",
+                "Total": "199;81"
+            }
+        },
+        "51": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "22",
+                "Base Rate": "142;37",
+                "Comp Care Fee": "30;97",
+                "Access Bonus": "26;47",
+                "Total": "199;81"
+            }
+        },
+        "52": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "23",
+                "Base Rate": "142;37",
+                "Comp Care Fee": "30;97",
+                "Access Bonus": "26;47",
+                "Total": "199;81"
+            }
+        },
+        "53": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "24",
+                "Base Rate": "142;37",
+                "Comp Care Fee": "30;97",
+                "Access Bonus": "26;47",
+                "Total": "199;81"
+            }
+        },
+        "54": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "25",
+                "Base Rate": "142;37",
+                "Comp Care Fee": "30;97",
+                "Access Bonus": "26;47",
+                "Total": "199;81"
+            }
+        },
+        "55": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "26",
+                "Base Rate": "142;37",
+                "Comp Care Fee": "30;97",
+                "Access Bonus": "26;47",
+                "Total": "199;81"
+            }
+        },
+        "56": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "27",
+                "Base Rate": "142;37",
+                "Comp Care Fee": "30;97",
+                "Access Bonus": "26;47",
+                "Total": "199;81"
+            }
+        },
+        "57": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "28",
+                "Base Rate": "142;37",
+                "Comp Care Fee": "30;97",
+                "Access Bonus": "26;47",
+                "Total": "199;81"
+            }
+        },
+        "58": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "29",
+                "Base Rate": "142;37",
+                "Comp Care Fee": "30;97",
+                "Access Bonus": "26;47",
+                "Total": "199;81"
+            }
+        },
+        "59": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "30",
+                "Base Rate": "149;22",
+                "Comp Care Fee": "32;16",
+                "Access Bonus": "27;74",
+                "Total": "209;12"
+            }
+        },
+        "60": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "31",
+                "Base Rate": "149;22",
+                "Comp Care Fee": "32;16",
+                "Access Bonus": "27;74",
+                "Total": "209;12"
+            }
+        },
+        "61": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "32",
+                "Base Rate": "149;22",
+                "Comp Care Fee": "32;16",
+                "Access Bonus": "27;74",
+                "Total": "209;12"
+            }
+        },
+        "62": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "33",
+                "Base Rate": "149;22",
+                "Comp Care Fee": "32;16",
+                "Access Bonus": "27;74",
+                "Total": "209;12"
+            }
+        },
+        "63": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "34",
+                "Base Rate": "149;22",
+                "Comp Care Fee": "32;16",
+                "Access Bonus": "27;74",
+                "Total": "209;12"
+            }
+        },
+        "64": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "35",
+                "Base Rate": "149;22",
+                "Comp Care Fee": "32;16",
+                "Access Bonus": "27;74",
+                "Total": "209;12"
+            }
+        },
+        "65": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "36",
+                "Base Rate": "149;22",
+                "Comp Care Fee": "32;16",
+                "Access Bonus": "27;74",
+                "Total": "209;12"
+            }
+        },
+        "66": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "37",
+                "Base Rate": "149;22",
+                "Comp Care Fee": "32;16",
+                "Access Bonus": "27;74",
+                "Total": "209;12"
+            }
+        },
+        "67": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "38",
+                "Base Rate": "149;22",
+                "Comp Care Fee": "32;16",
+                "Access Bonus": "27;74",
+                "Total": "209;12"
+            }
+        },
+        "68": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "39",
+                "Base Rate": "149;22",
+                "Comp Care Fee": "32;16",
+                "Access Bonus": "27;74",
+                "Total": "209;12"
+            }
+        },
+        "69": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "40",
+                "Base Rate": "167;43",
+                "Comp Care Fee": "35;74",
+                "Access Bonus": "31;13",
+                "Total": "234;3"
+            }
+        },
+        "70": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "41",
+                "Base Rate": "167;43",
+                "Comp Care Fee": "35;74",
+                "Access Bonus": "31;13",
+                "Total": "234;3"
+            }
+        },
+        "71": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "42",
+                "Base Rate": "167;43",
+                "Comp Care Fee": "35;74",
+                "Access Bonus": "31;13",
+                "Total": "234;3"
+            }
+        },
+        "72": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "43",
+                "Base Rate": "167;43",
+                "Comp Care Fee": "35;74",
+                "Access Bonus": "31;13",
+                "Total": "234;3"
+            }
+        },
+        "73": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "44",
+                "Base Rate": "167;43",
+                "Comp Care Fee": "35;74",
+                "Access Bonus": "31;13",
+                "Total": "234;3"
+            }
+        },
+        "74": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "45",
+                "Base Rate": "163;98",
+                "Comp Care Fee": "38;71",
+                "Access Bonus": "30;48",
+                "Total": "233;17"
+            }
+        },
+        "75": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "46",
+                "Base Rate": "163;98",
+                "Comp Care Fee": "38;71",
+                "Access Bonus": "30;48",
+                "Total": "233;17"
+            }
+        },
+        "76": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "47",
+                "Base Rate": "163;98",
+                "Comp Care Fee": "38;71",
+                "Access Bonus": "30;48",
+                "Total": "233;17"
+            }
+        },
+        "77": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "48",
+                "Base Rate": "163;98",
+                "Comp Care Fee": "38;71",
+                "Access Bonus": "30;48",
+                "Total": "233;17"
+            }
+        },
+        "78": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "49",
+                "Base Rate": "163;98",
+                "Comp Care Fee": "38;71",
+                "Access Bonus": "30;48",
+                "Total": "233;17"
+            }
+        },
+        "79": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "50",
+                "Base Rate": "203;98",
+                "Comp Care Fee": "43;48",
+                "Access Bonus": "37;92",
+                "Total": "285;38"
+            }
+        },
+        "80": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "51",
+                "Base Rate": "203;98",
+                "Comp Care Fee": "43;48",
+                "Access Bonus": "37;92",
+                "Total": "285;38"
+            }
+        },
+        "81": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "52",
+                "Base Rate": "203;98",
+                "Comp Care Fee": "43;48",
+                "Access Bonus": "37;92",
+                "Total": "285;38"
+            }
+        },
+        "82": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "53",
+                "Base Rate": "203;98",
+                "Comp Care Fee": "43;48",
+                "Access Bonus": "37;92",
+                "Total": "285;38"
+            }
+        },
+        "83": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "54",
+                "Base Rate": "203;98",
+                "Comp Care Fee": "43;48",
+                "Access Bonus": "37;92",
+                "Total": "285;38"
+            }
+        },
+        "84": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "55",
+                "Base Rate": "206;22",
+                "Comp Care Fee": "43;77",
+                "Access Bonus": "38;34",
+                "Total": "288;33"
+            }
+        },
+        "85": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "56",
+                "Base Rate": "206;22",
+                "Comp Care Fee": "43;77",
+                "Access Bonus": "38;34",
+                "Total": "288;33"
+            }
+        },
+        "86": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "57",
+                "Base Rate": "206;22",
+                "Comp Care Fee": "43;77",
+                "Access Bonus": "38;34",
+                "Total": "288;33"
+            }
+        },
+        "87": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "58",
+                "Base Rate": "206;22",
+                "Comp Care Fee": "43;77",
+                "Access Bonus": "38;34",
+                "Total": "288;33"
+            }
+        },
+        "88": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "59",
+                "Base Rate": "206;22",
+                "Comp Care Fee": "43;77",
+                "Access Bonus": "38;34",
+                "Total": "288;33"
+            }
+        },
+        "89": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "60",
+                "Base Rate": "211;13",
+                "Comp Care Fee": "44;97",
+                "Access Bonus": "39;25",
+                "Total": "295;35"
+            }
+        },
+        "90": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "61",
+                "Base Rate": "211;13",
+                "Comp Care Fee": "44;97",
+                "Access Bonus": "39;25",
+                "Total": "295;35"
+            }
+        },
+        "91": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "62",
+                "Base Rate": "211;13",
+                "Comp Care Fee": "44;97",
+                "Access Bonus": "39;25",
+                "Total": "295;35"
+            }
+        },
+        "92": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "63",
+                "Base Rate": "211;13",
+                "Comp Care Fee": "44;97",
+                "Access Bonus": "39;25",
+                "Total": "295;35"
+            }
+        },
+        "93": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "64",
+                "Base Rate": "211;13",
+                "Comp Care Fee": "44;97",
+                "Access Bonus": "39;25",
+                "Total": "295;35"
+            }
+        },
+        "94": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "65",
+                "Base Rate": "254;8",
+                "Comp Care Fee": "54;45",
+                "Access Bonus": "47;37",
+                "Total": "356;62"
+            }
+        },
+        "95": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "66",
+                "Base Rate": "254;8",
+                "Comp Care Fee": "54;45",
+                "Access Bonus": "47;37",
+                "Total": "356;62"
+            }
+        },
+        "96": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "67",
+                "Base Rate": "254;8",
+                "Comp Care Fee": "54;45",
+                "Access Bonus": "47;37",
+                "Total": "356;62"
+            }
+        },
+        "97": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "68",
+                "Base Rate": "254;8",
+                "Comp Care Fee": "54;45",
+                "Access Bonus": "47;37",
+                "Total": "356;62"
+            }
+        },
+        "98": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "69",
+                "Base Rate": "254;8",
+                "Comp Care Fee": "54;45",
+                "Access Bonus": "47;37",
+                "Total": "356;62"
+            }
+        },
+        "99": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "70",
+                "Base Rate": "274;74",
+                "Comp Care Fee": "58;22",
+                "Access Bonus": "51;07",
+                "Total": "384;03"
+            }
+        },
+        "100": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "71",
+                "Base Rate": "274;74",
+                "Comp Care Fee": "58;22",
+                "Access Bonus": "51;07",
+                "Total": "384;03"
+            }
+        },
+        "101": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "72",
+                "Base Rate": "274;74",
+                "Comp Care Fee": "58;22",
+                "Access Bonus": "51;07",
+                "Total": "384;03"
+            }
+        },
+        "102": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "73",
+                "Base Rate": "274;74",
+                "Comp Care Fee": "58;22",
+                "Access Bonus": "51;07",
+                "Total": "384;03"
+            }
+        },
+        "103": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "74",
+                "Base Rate": "274;74",
+                "Comp Care Fee": "58;22",
+                "Access Bonus": "51;07",
+                "Total": "384;03"
+            }
+        },
+        "104": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "75",
+                "Base Rate": "334;45",
+                "Comp Care Fee": "69;52",
+                "Access Bonus": "62;17",
+                "Total": "466;14"
+            }
+        },
+        "105": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "76",
+                "Base Rate": "334;45",
+                "Comp Care Fee": "69;52",
+                "Access Bonus": "62;17",
+                "Total": "466;14"
+            }
+        },
+        "106": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "77",
+                "Base Rate": "334;45",
+                "Comp Care Fee": "69;52",
+                "Access Bonus": "62;17",
+                "Total": "466;14"
+            }
+        },
+        "107": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "78",
+                "Base Rate": "334;45",
+                "Comp Care Fee": "69;52",
+                "Access Bonus": "62;17",
+                "Total": "466;14"
+            }
+        },
+        "108": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "79",
+                "Base Rate": "334;45",
+                "Comp Care Fee": "69;52",
+                "Access Bonus": "62;17",
+                "Total": "466;14"
+            }
+        },
+        "109": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "80",
+                "Base Rate": "363;76",
+                "Comp Care Fee": "71;92",
+                "Access Bonus": "67;62",
+                "Total": "503;3"
+            }
+        },
+        "110": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "81",
+                "Base Rate": "363;76",
+                "Comp Care Fee": "71;92",
+                "Access Bonus": "67;62",
+                "Total": "503;3"
+            }
+        },
+        "111": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "82",
+                "Base Rate": "363;76",
+                "Comp Care Fee": "71;92",
+                "Access Bonus": "67;62",
+                "Total": "503;3"
+            }
+        },
+        "112": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "83",
+                "Base Rate": "363;76",
+                "Comp Care Fee": "71;92",
+                "Access Bonus": "67;62",
+                "Total": "503;3"
+            }
+        },
+        "113": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "84",
+                "Base Rate": "363;76",
+                "Comp Care Fee": "71;92",
+                "Access Bonus": "67;62",
+                "Total": "503;3"
+            }
+        },
+        "114": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "85",
+                "Base Rate": "444;02",
+                "Comp Care Fee": "81;85",
+                "Access Bonus": "82;54",
+                "Total": "608;41"
+            }
+        },
+        "115": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "86",
+                "Base Rate": "444;02",
+                "Comp Care Fee": "81;85",
+                "Access Bonus": "82;54",
+                "Total": "608;41"
+            }
+        },
+        "116": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "87",
+                "Base Rate": "444;02",
+                "Comp Care Fee": "81;85",
+                "Access Bonus": "82;54",
+                "Total": "608;41"
+            }
+        },
+        "117": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "88",
+                "Base Rate": "444;02",
+                "Comp Care Fee": "81;85",
+                "Access Bonus": "82;54",
+                "Total": "608;41"
+            }
+        },
+        "118": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "89",
+                "Base Rate": "444;02",
+                "Comp Care Fee": "81;85",
+                "Access Bonus": "82;54",
+                "Total": "608;41"
+            }
+        },
+        "119": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "90",
+                "Base Rate": "557;61",
+                "Comp Care Fee": "92;47",
+                "Access Bonus": "103;66",
+                "Total": "753;74"
+            }
+        },
+        "120": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "91",
+                "Base Rate": "557;61",
+                "Comp Care Fee": "92;47",
+                "Access Bonus": "103;66",
+                "Total": "753;74"
+            }
+        },
+        "121": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "92",
+                "Base Rate": "557;61",
+                "Comp Care Fee": "92;47",
+                "Access Bonus": "103;66",
+                "Total": "753;74"
+            }
+        },
+        "122": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "93",
+                "Base Rate": "557;61",
+                "Comp Care Fee": "92;47",
+                "Access Bonus": "103;66",
+                "Total": "753;74"
+            }
+        },
+        "123": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "94",
+                "Base Rate": "557;61",
+                "Comp Care Fee": "92;47",
+                "Access Bonus": "103;66",
+                "Total": "753;74"
+            }
+        },
+        "124": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "95",
+                "Base Rate": "557;61",
+                "Comp Care Fee": "92;47",
+                "Access Bonus": "103;66",
+                "Total": "753;74"
+            }
+        },
+        "125": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "96",
+                "Base Rate": "557;61",
+                "Comp Care Fee": "92;47",
+                "Access Bonus": "103;66",
+                "Total": "753;74"
+            }
+        },
+        "126": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "97",
+                "Base Rate": "557;61",
+                "Comp Care Fee": "92;47",
+                "Access Bonus": "103;66",
+                "Total": "753;74"
+            }
+        },
+        "127": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "98",
+                "Base Rate": "557;61",
+                "Comp Care Fee": "92;47",
+                "Access Bonus": "103;66",
+                "Total": "753;74"
+            }
+        },
+        "128": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "99",
+                "Base Rate": "557;61",
+                "Comp Care Fee": "92;47",
+                "Access Bonus": "103;66",
+                "Total": "753;74"
+            }
+        },
+        "129": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "100",
+                "Base Rate": "557;61",
+                "Comp Care Fee": "92;47",
+                "Access Bonus": "103;66",
+                "Total": "753;74"
+            }
+        },
+        "130": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "101",
+                "Base Rate": "557;61",
+                "Comp Care Fee": "92;47",
+                "Access Bonus": "103;66",
+                "Total": "753;74"
+            }
+        },
+        "131": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "102",
+                "Base Rate": "557;61",
+                "Comp Care Fee": "92;47",
+                "Access Bonus": "103;66",
+                "Total": "753;74"
+            }
+        },
+        "132": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "103",
+                "Base Rate": "557;61",
+                "Comp Care Fee": "92;47",
+                "Access Bonus": "103;66",
+                "Total": "753;74"
+            }
+        },
+        "133": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "104",
+                "Base Rate": "557;61",
+                "Comp Care Fee": "92;47",
+                "Access Bonus": "103;66",
+                "Total": "753;74"
+            }
+        },
+        "134": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "105",
+                "Base Rate": "557;61",
+                "Comp Care Fee": "92;47",
+                "Access Bonus": "103;66",
+                "Total": "753;74"
+            }
+        },
+        "135": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "106",
+                "Base Rate": "557;61",
+                "Comp Care Fee": "92;47",
+                "Access Bonus": "103;66",
+                "Total": "753;74"
+            }
+        },
+        "136": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "107",
+                "Base Rate": "557;61",
+                "Comp Care Fee": "92;47",
+                "Access Bonus": "103;66",
+                "Total": "753;74"
+            }
+        },
+        "137": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "108",
+                "Base Rate": "557;61",
+                "Comp Care Fee": "92;47",
+                "Access Bonus": "103;66",
+                "Total": "753;74"
+            }
+        },
+        "138": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "109",
+                "Base Rate": "557;61",
+                "Comp Care Fee": "92;47",
+                "Access Bonus": "103;66",
+                "Total": "753;74"
+            }
+        },
+        "139": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "110",
+                "Base Rate": "557;61",
+                "Comp Care Fee": "92;47",
+                "Access Bonus": "103;66",
+                "Total": "753;74"
+            }
+        },
+        "140": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "111",
+                "Base Rate": "557;61",
+                "Comp Care Fee": "92;47",
+                "Access Bonus": "103;66",
+                "Total": "753;74"
+            }
+        },
+        "141": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "112",
+                "Base Rate": "557;61",
+                "Comp Care Fee": "92;47",
+                "Access Bonus": "103;66",
+                "Total": "753;74"
+            }
+        },
+        "142": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "113",
+                "Base Rate": "557;61",
+                "Comp Care Fee": "92;47",
+                "Access Bonus": "103;66",
+                "Total": "753;74"
+            }
+        },
+        "143": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "114",
+                "Base Rate": "557;61",
+                "Comp Care Fee": "92;47",
+                "Access Bonus": "103;66",
+                "Total": "753;74"
+            }
+        },
+        "144": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "115",
+                "Base Rate": "557;61",
+                "Comp Care Fee": "92;47",
+                "Access Bonus": "103;66",
+                "Total": "753;74"
+            }
+        },
+        "145": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "116",
+                "Base Rate": "557;61",
+                "Comp Care Fee": "92;47",
+                "Access Bonus": "103;66",
+                "Total": "753;74"
+            }
+        },
+        "146": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "117",
+                "Base Rate": "557;61",
+                "Comp Care Fee": "92;47",
+                "Access Bonus": "103;66",
+                "Total": "753;74"
+            }
+        },
+        "147": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "118",
+                "Base Rate": "557;61",
+                "Comp Care Fee": "92;47",
+                "Access Bonus": "103;66",
+                "Total": "753;74"
+            }
+        },
+        "148": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "119",
+                "Base Rate": "557;61",
+                "Comp Care Fee": "92;47",
+                "Access Bonus": "103;66",
+                "Total": "753;74"
+            }
+        },
+        "149": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "f",
+                "Age": "120",
+                "Base Rate": "557;61",
+                "Comp Care Fee": "92;47",
+                "Access Bonus": "103;66",
+                "Total": "753;74"
+            }
+        },
+        "150": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "0",
+                "Base Rate": "145;77",
+                "Comp Care Fee": "31;57",
+                "Access Bonus": "27;1",
+                "Total": "204;44"
+            }
+        },
+        "151": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "1",
+                "Base Rate": "145;77",
+                "Comp Care Fee": "31;57",
+                "Access Bonus": "27;1",
+                "Total": "204;44"
+            }
+        },
+        "152": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "2",
+                "Base Rate": "145;77",
+                "Comp Care Fee": "31;57",
+                "Access Bonus": "27;1",
+                "Total": "204;44"
+            }
+        },
+        "153": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "3",
+                "Base Rate": "145;77",
+                "Comp Care Fee": "31;57",
+                "Access Bonus": "27;1",
+                "Total": "204;44"
+            }
+        },
+        "154": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "4",
+                "Base Rate": "145;77",
+                "Comp Care Fee": "31;57",
+                "Access Bonus": "27;1",
+                "Total": "204;44"
+            }
+        },
+        "155": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "5",
+                "Base Rate": "77;44",
+                "Comp Care Fee": "16;68",
+                "Access Bonus": "14;4",
+                "Total": "108;52"
+            }
+        },
+        "156": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "6",
+                "Base Rate": "77;44",
+                "Comp Care Fee": "16;68",
+                "Access Bonus": "14;4",
+                "Total": "108;52"
+            }
+        },
+        "157": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "7",
+                "Base Rate": "77;44",
+                "Comp Care Fee": "16;68",
+                "Access Bonus": "14;4",
+                "Total": "108;52"
+            }
+        },
+        "158": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "8",
+                "Base Rate": "77;44",
+                "Comp Care Fee": "16;68",
+                "Access Bonus": "14;4",
+                "Total": "108;52"
+            }
+        },
+        "159": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "9",
+                "Base Rate": "77;44",
+                "Comp Care Fee": "16;68",
+                "Access Bonus": "14;4",
+                "Total": "108;52"
+            }
+        },
+        "160": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "10",
+                "Base Rate": "62;63",
+                "Comp Care Fee": "13;1",
+                "Access Bonus": "11;64",
+                "Total": "87;37"
+            }
+        },
+        "161": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "11",
+                "Base Rate": "62;63",
+                "Comp Care Fee": "13;1",
+                "Access Bonus": "11;64",
+                "Total": "87;37"
+            }
+        },
+        "162": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "12",
+                "Base Rate": "62;63",
+                "Comp Care Fee": "13;1",
+                "Access Bonus": "11;64",
+                "Total": "87;37"
+            }
+        },
+        "163": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "13",
+                "Base Rate": "62;63",
+                "Comp Care Fee": "13;1",
+                "Access Bonus": "11;64",
+                "Total": "87;37"
+            }
+        },
+        "164": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "14",
+                "Base Rate": "62;63",
+                "Comp Care Fee": "13;1",
+                "Access Bonus": "11;64",
+                "Total": "87;37"
+            }
+        },
+        "165": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "15",
+                "Base Rate": "65;81",
+                "Comp Care Fee": "13;7",
+                "Access Bonus": "12;23",
+                "Total": "91;74"
+            }
+        },
+        "166": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "16",
+                "Base Rate": "65;81",
+                "Comp Care Fee": "13;7",
+                "Access Bonus": "12;23",
+                "Total": "91;74"
+            }
+        },
+        "167": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "17",
+                "Base Rate": "65;81",
+                "Comp Care Fee": "13;7",
+                "Access Bonus": "12;23",
+                "Total": "91;74"
+            }
+        },
+        "168": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "18",
+                "Base Rate": "65;81",
+                "Comp Care Fee": "13;7",
+                "Access Bonus": "12;23",
+                "Total": "91;74"
+            }
+        },
+        "169": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "19",
+                "Base Rate": "65;81",
+                "Comp Care Fee": "13;7",
+                "Access Bonus": "12;23",
+                "Total": "91;74"
+            }
+        },
+        "170": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "20",
+                "Base Rate": "65;02",
+                "Comp Care Fee": "13;7",
+                "Access Bonus": "12;09",
+                "Total": "90;81"
+            }
+        },
+        "171": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "21",
+                "Base Rate": "65;02",
+                "Comp Care Fee": "13;7",
+                "Access Bonus": "12;09",
+                "Total": "90;81"
+            }
+        },
+        "172": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "22",
+                "Base Rate": "65;02",
+                "Comp Care Fee": "13;7",
+                "Access Bonus": "12;09",
+                "Total": "90;81"
+            }
+        },
+        "173": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "23",
+                "Base Rate": "65;02",
+                "Comp Care Fee": "13;7",
+                "Access Bonus": "12;09",
+                "Total": "90;81"
+            }
+        },
+        "174": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "24",
+                "Base Rate": "65;02",
+                "Comp Care Fee": "13;7",
+                "Access Bonus": "12;09",
+                "Total": "90;81"
+            }
+        },
+        "175": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "25",
+                "Base Rate": "70;28",
+                "Comp Care Fee": "14;89",
+                "Access Bonus": "13;06",
+                "Total": "98;23"
+            }
+        },
+        "176": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "26",
+                "Base Rate": "70;28",
+                "Comp Care Fee": "14;89",
+                "Access Bonus": "13;06",
+                "Total": "98;23"
+            }
+        },
+        "177": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "27",
+                "Base Rate": "70;28",
+                "Comp Care Fee": "14;89",
+                "Access Bonus": "13;06",
+                "Total": "98;23"
+            }
+        },
+        "178": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "28",
+                "Base Rate": "70;28",
+                "Comp Care Fee": "14;89",
+                "Access Bonus": "13;06",
+                "Total": "98;23"
+            }
+        },
+        "179": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "29",
+                "Base Rate": "70;28",
+                "Comp Care Fee": "14;89",
+                "Access Bonus": "13;06",
+                "Total": "98;23"
+            }
+        },
+        "180": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "30",
+                "Base Rate": "82;06",
+                "Comp Care Fee": "17;27",
+                "Access Bonus": "15;26",
+                "Total": "114;59"
+            }
+        },
+        "181": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "31",
+                "Base Rate": "82;06",
+                "Comp Care Fee": "17;27",
+                "Access Bonus": "15;26",
+                "Total": "114;59"
+            }
+        },
+        "182": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "32",
+                "Base Rate": "82;06",
+                "Comp Care Fee": "17;27",
+                "Access Bonus": "15;26",
+                "Total": "114;59"
+            }
+        },
+        "183": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "33",
+                "Base Rate": "82;06",
+                "Comp Care Fee": "17;27",
+                "Access Bonus": "15;26",
+                "Total": "114;59"
+            }
+        },
+        "184": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "34",
+                "Base Rate": "82;06",
+                "Comp Care Fee": "17;27",
+                "Access Bonus": "15;26",
+                "Total": "114;59"
+            }
+        },
+        "185": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "35",
+                "Base Rate": "100;54",
+                "Comp Care Fee": "21;44",
+                "Access Bonus": "18;69",
+                "Total": "140;67"
+            }
+        },
+        "186": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "36",
+                "Base Rate": "100;54",
+                "Comp Care Fee": "21;44",
+                "Access Bonus": "18;69",
+                "Total": "140;67"
+            }
+        },
+        "187": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "37",
+                "Base Rate": "100;54",
+                "Comp Care Fee": "21;44",
+                "Access Bonus": "18;69",
+                "Total": "140;67"
+            }
+        },
+        "188": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "38",
+                "Base Rate": "100;54",
+                "Comp Care Fee": "21;44",
+                "Access Bonus": "18;69",
+                "Total": "140;67"
+            }
+        },
+        "189": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "39",
+                "Base Rate": "100;54",
+                "Comp Care Fee": "21;44",
+                "Access Bonus": "18;69",
+                "Total": "140;67"
+            }
+        },
+        "190": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "40",
+                "Base Rate": "113;17",
+                "Comp Care Fee": "23;82",
+                "Access Bonus": "21;04",
+                "Total": "158;03"
+            }
+        },
+        "191": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "41",
+                "Base Rate": "113;17",
+                "Comp Care Fee": "23;82",
+                "Access Bonus": "21;04",
+                "Total": "158;03"
+            }
+        },
+        "192": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "42",
+                "Base Rate": "113;17",
+                "Comp Care Fee": "23;82",
+                "Access Bonus": "21;04",
+                "Total": "158;03"
+            }
+        },
+        "193": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "43",
+                "Base Rate": "113;17",
+                "Comp Care Fee": "23;82",
+                "Access Bonus": "21;04",
+                "Total": "158;03"
+            }
+        },
+        "194": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "44",
+                "Base Rate": "113;17",
+                "Comp Care Fee": "23;82",
+                "Access Bonus": "21;04",
+                "Total": "158;03"
+            }
+        },
+        "195": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "45",
+                "Base Rate": "123;71",
+                "Comp Care Fee": "26;21",
+                "Access Bonus": "23",
+                "Total": "172;92"
+            }
+        },
+        "196": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "46",
+                "Base Rate": "123;71",
+                "Comp Care Fee": "26;21",
+                "Access Bonus": "23",
+                "Total": "172;92"
+            }
+        },
+        "197": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "47",
+                "Base Rate": "123;71",
+                "Comp Care Fee": "26;21",
+                "Access Bonus": "23",
+                "Total": "172;92"
+            }
+        },
+        "198": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "48",
+                "Base Rate": "123;71",
+                "Comp Care Fee": "26;21",
+                "Access Bonus": "23",
+                "Total": "172;92"
+            }
+        },
+        "199": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "49",
+                "Base Rate": "123;71",
+                "Comp Care Fee": "26;21",
+                "Access Bonus": "23",
+                "Total": "172;92"
+            }
+        },
+        "200": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "50",
+                "Base Rate": "143;45",
+                "Comp Care Fee": "30;38",
+                "Access Bonus": "26;67",
+                "Total": "200;5"
+            }
+        },
+        "201": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "51",
+                "Base Rate": "143;45",
+                "Comp Care Fee": "30;38",
+                "Access Bonus": "26;67",
+                "Total": "200;5"
+            }
+        },
+        "202": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "52",
+                "Base Rate": "143;45",
+                "Comp Care Fee": "30;38",
+                "Access Bonus": "26;67",
+                "Total": "200;5"
+            }
+        },
+        "203": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "53",
+                "Base Rate": "143;45",
+                "Comp Care Fee": "30;38",
+                "Access Bonus": "26;67",
+                "Total": "200;5"
+            }
+        },
+        "204": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "54",
+                "Base Rate": "143;45",
+                "Comp Care Fee": "30;38",
+                "Access Bonus": "26;67",
+                "Total": "200;5"
+            }
+        },
+        "205": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "55",
+                "Base Rate": "162;78",
+                "Comp Care Fee": "34;54",
+                "Access Bonus": "30;26",
+                "Total": "227;58"
+            }
+        },
+        "206": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "56",
+                "Base Rate": "162;78",
+                "Comp Care Fee": "34;54",
+                "Access Bonus": "30;26",
+                "Total": "227;58"
+            }
+        },
+        "207": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "57",
+                "Base Rate": "162;78",
+                "Comp Care Fee": "34;54",
+                "Access Bonus": "30;26",
+                "Total": "227;58"
+            }
+        },
+        "208": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "58",
+                "Base Rate": "162;78",
+                "Comp Care Fee": "34;54",
+                "Access Bonus": "30;26",
+                "Total": "227;58"
+            }
+        },
+        "209": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "59",
+                "Base Rate": "162;78",
+                "Comp Care Fee": "34;54",
+                "Access Bonus": "30;26",
+                "Total": "227;58"
+            }
+        },
+        "210": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "60",
+                "Base Rate": "180",
+                "Comp Care Fee": "37;82",
+                "Access Bonus": "33;46",
+                "Total": "251;28"
+            }
+        },
+        "211": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "61",
+                "Base Rate": "180",
+                "Comp Care Fee": "37;82",
+                "Access Bonus": "33;46",
+                "Total": "251;28"
+            }
+        },
+        "212": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "62",
+                "Base Rate": "180",
+                "Comp Care Fee": "37;82",
+                "Access Bonus": "33;46",
+                "Total": "251;28"
+            }
+        },
+        "213": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "63",
+                "Base Rate": "180",
+                "Comp Care Fee": "37;82",
+                "Access Bonus": "33;46",
+                "Total": "251;28"
+            }
+        },
+        "214": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "64",
+                "Base Rate": "180",
+                "Comp Care Fee": "37;82",
+                "Access Bonus": "33;46",
+                "Total": "251;28"
+            }
+        },
+        "215": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "65",
+                "Base Rate": "231;17",
+                "Comp Care Fee": "49;32",
+                "Access Bonus": "42;97",
+                "Total": "323;46"
+            }
+        },
+        "216": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "66",
+                "Base Rate": "231;17",
+                "Comp Care Fee": "49;32",
+                "Access Bonus": "42;97",
+                "Total": "323;46"
+            }
+        },
+        "217": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "67",
+                "Base Rate": "231;17",
+                "Comp Care Fee": "49;32",
+                "Access Bonus": "42;97",
+                "Total": "323;46"
+            }
+        },
+        "218": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "68",
+                "Base Rate": "231;17",
+                "Comp Care Fee": "49;32",
+                "Access Bonus": "42;97",
+                "Total": "323;46"
+            }
+        },
+        "219": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "69",
+                "Base Rate": "231;17",
+                "Comp Care Fee": "49;32",
+                "Access Bonus": "42;97",
+                "Total": "323;46"
+            }
+        },
+        "220": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "70",
+                "Base Rate": "269;72",
+                "Comp Care Fee": "57;19",
+                "Access Bonus": "50;14",
+                "Total": "377;05"
+            }
+        },
+        "221": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "71",
+                "Base Rate": "269;72",
+                "Comp Care Fee": "57;19",
+                "Access Bonus": "50;14",
+                "Total": "377;05"
+            }
+        },
+        "222": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "72",
+                "Base Rate": "269;72",
+                "Comp Care Fee": "57;19",
+                "Access Bonus": "50;14",
+                "Total": "377;05"
+            }
+        },
+        "223": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "73",
+                "Base Rate": "269;72",
+                "Comp Care Fee": "57;19",
+                "Access Bonus": "50;14",
+                "Total": "377;05"
+            }
+        },
+        "224": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "74",
+                "Base Rate": "269;72",
+                "Comp Care Fee": "57;19",
+                "Access Bonus": "50;14",
+                "Total": "377;05"
+            }
+        },
+        "225": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "75",
+                "Base Rate": "328;04",
+                "Comp Care Fee": "68;84",
+                "Access Bonus": "60;98",
+                "Total": "457;86"
+            }
+        },
+        "226": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "76",
+                "Base Rate": "328;04",
+                "Comp Care Fee": "68;84",
+                "Access Bonus": "60;98",
+                "Total": "457;86"
+            }
+        },
+        "227": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "77",
+                "Base Rate": "328;04",
+                "Comp Care Fee": "68;84",
+                "Access Bonus": "60;98",
+                "Total": "457;86"
+            }
+        },
+        "228": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "78",
+                "Base Rate": "328;04",
+                "Comp Care Fee": "68;84",
+                "Access Bonus": "60;98",
+                "Total": "457;86"
+            }
+        },
+        "229": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "79",
+                "Base Rate": "328;04",
+                "Comp Care Fee": "68;84",
+                "Access Bonus": "60;98",
+                "Total": "457;86"
+            }
+        },
+        "230": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "80",
+                "Base Rate": "354;58",
+                "Comp Care Fee": "72;26",
+                "Access Bonus": "65;92",
+                "Total": "492;76"
+            }
+        },
+        "231": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "81",
+                "Base Rate": "354;58",
+                "Comp Care Fee": "72;26",
+                "Access Bonus": "65;92",
+                "Total": "492;76"
+            }
+        },
+        "232": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "82",
+                "Base Rate": "354;58",
+                "Comp Care Fee": "72;26",
+                "Access Bonus": "65;92",
+                "Total": "492;76"
+            }
+        },
+        "233": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "83",
+                "Base Rate": "354;58",
+                "Comp Care Fee": "72;26",
+                "Access Bonus": "65;92",
+                "Total": "492;76"
+            }
+        },
+        "234": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "84",
+                "Base Rate": "354;58",
+                "Comp Care Fee": "72;26",
+                "Access Bonus": "65;92",
+                "Total": "492;76"
+            }
+        },
+        "235": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "85",
+                "Base Rate": "420;57",
+                "Comp Care Fee": "80;48",
+                "Access Bonus": "78;18",
+                "Total": "579;23"
+            }
+        },
+        "236": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "86",
+                "Base Rate": "420;57",
+                "Comp Care Fee": "80;48",
+                "Access Bonus": "78;18",
+                "Total": "579;23"
+            }
+        },
+        "237": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "87",
+                "Base Rate": "420;57",
+                "Comp Care Fee": "80;48",
+                "Access Bonus": "78;18",
+                "Total": "579;23"
+            }
+        },
+        "238": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "88",
+                "Base Rate": "420;57",
+                "Comp Care Fee": "80;48",
+                "Access Bonus": "78;18",
+                "Total": "579;23"
+            }
+        },
+        "239": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "89",
+                "Base Rate": "420;57",
+                "Comp Care Fee": "80;48",
+                "Access Bonus": "78;18",
+                "Total": "579;23"
+            }
+        },
+        "240": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "90",
+                "Base Rate": "524;65",
+                "Comp Care Fee": "90;75",
+                "Access Bonus": "97;53",
+                "Total": "712;93"
+            }
+        },
+        "241": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "91",
+                "Base Rate": "524;65",
+                "Comp Care Fee": "90;75",
+                "Access Bonus": "97;53",
+                "Total": "712;93"
+            }
+        },
+        "242": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "92",
+                "Base Rate": "524;65",
+                "Comp Care Fee": "90;75",
+                "Access Bonus": "97;53",
+                "Total": "712;93"
+            }
+        },
+        "243": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "93",
+                "Base Rate": "524;65",
+                "Comp Care Fee": "90;75",
+                "Access Bonus": "97;53",
+                "Total": "712;93"
+            }
+        },
+        "244": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "94",
+                "Base Rate": "524;65",
+                "Comp Care Fee": "90;75",
+                "Access Bonus": "97;53",
+                "Total": "712;93"
+            }
+        },
+        "245": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "95",
+                "Base Rate": "524;65",
+                "Comp Care Fee": "90;75",
+                "Access Bonus": "97;53",
+                "Total": "712;93"
+            }
+        },
+        "246": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "96",
+                "Base Rate": "524;65",
+                "Comp Care Fee": "90;75",
+                "Access Bonus": "97;53",
+                "Total": "712;93"
+            }
+        },
+        "247": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "97",
+                "Base Rate": "524;65",
+                "Comp Care Fee": "90;75",
+                "Access Bonus": "97;53",
+                "Total": "712;93"
+            }
+        },
+        "248": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "98",
+                "Base Rate": "524;65",
+                "Comp Care Fee": "90;75",
+                "Access Bonus": "97;53",
+                "Total": "712;93"
+            }
+        },
+        "249": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "99",
+                "Base Rate": "524;65",
+                "Comp Care Fee": "90;75",
+                "Access Bonus": "97;53",
+                "Total": "712;93"
+            }
+        },
+        "250": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "100",
+                "Base Rate": "524;65",
+                "Comp Care Fee": "90;75",
+                "Access Bonus": "97;53",
+                "Total": "712;93"
+            }
+        },
+        "251": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "101",
+                "Base Rate": "524;65",
+                "Comp Care Fee": "90;75",
+                "Access Bonus": "97;53",
+                "Total": "712;93"
+            }
+        },
+        "252": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "102",
+                "Base Rate": "524;65",
+                "Comp Care Fee": "90;75",
+                "Access Bonus": "97;53",
+                "Total": "712;93"
+            }
+        },
+        "253": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "103",
+                "Base Rate": "524;65",
+                "Comp Care Fee": "90;75",
+                "Access Bonus": "97;53",
+                "Total": "712;93"
+            }
+        },
+        "254": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "104",
+                "Base Rate": "524;65",
+                "Comp Care Fee": "90;75",
+                "Access Bonus": "97;53",
+                "Total": "712;93"
+            }
+        },
+        "255": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "105",
+                "Base Rate": "524;65",
+                "Comp Care Fee": "90;75",
+                "Access Bonus": "97;53",
+                "Total": "712;93"
+            }
+        },
+        "256": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "106",
+                "Base Rate": "524;65",
+                "Comp Care Fee": "90;75",
+                "Access Bonus": "97;53",
+                "Total": "712;93"
+            }
+        },
+        "257": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "107",
+                "Base Rate": "524;65",
+                "Comp Care Fee": "90;75",
+                "Access Bonus": "97;53",
+                "Total": "712;93"
+            }
+        },
+        "258": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "108",
+                "Base Rate": "524;65",
+                "Comp Care Fee": "90;75",
+                "Access Bonus": "97;53",
+                "Total": "712;93"
+            }
+        },
+        "259": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "109",
+                "Base Rate": "524;65",
+                "Comp Care Fee": "90;75",
+                "Access Bonus": "97;53",
+                "Total": "712;93"
+            }
+        },
+        "260": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "110",
+                "Base Rate": "524;65",
+                "Comp Care Fee": "90;75",
+                "Access Bonus": "97;53",
+                "Total": "712;93"
+            }
+        },
+        "261": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "111",
+                "Base Rate": "524;65",
+                "Comp Care Fee": "90;75",
+                "Access Bonus": "97;53",
+                "Total": "712;93"
+            }
+        },
+        "262": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "112",
+                "Base Rate": "524;65",
+                "Comp Care Fee": "90;75",
+                "Access Bonus": "97;53",
+                "Total": "712;93"
+            }
+        },
+        "263": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "113",
+                "Base Rate": "524;65",
+                "Comp Care Fee": "90;75",
+                "Access Bonus": "97;53",
+                "Total": "712;93"
+            }
+        },
+        "264": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "114",
+                "Base Rate": "524;65",
+                "Comp Care Fee": "90;75",
+                "Access Bonus": "97;53",
+                "Total": "712;93"
+            }
+        },
+        "265": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "115",
+                "Base Rate": "524;65",
+                "Comp Care Fee": "90;75",
+                "Access Bonus": "97;53",
+                "Total": "712;93"
+            }
+        },
+        "266": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "116",
+                "Base Rate": "524;65",
+                "Comp Care Fee": "90;75",
+                "Access Bonus": "97;53",
+                "Total": "712;93"
+            }
+        },
+        "267": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "117",
+                "Base Rate": "524;65",
+                "Comp Care Fee": "90;75",
+                "Access Bonus": "97;53",
+                "Total": "712;93"
+            }
+        },
+        "268": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "118",
+                "Base Rate": "524;65",
+                "Comp Care Fee": "90;75",
+                "Access Bonus": "97;53",
+                "Total": "712;93"
+            }
+        },
+        "269": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "119",
+                "Base Rate": "524;65",
+                "Comp Care Fee": "90;75",
+                "Access Bonus": "97;53",
+                "Total": "712;93"
+            }
+        },
+        "270": {
+            "Annual Capitation Calculator.csv": {
+                "Sex": "m",
+                "Age": "120",
+                "Base Rate": "524;65",
+                "Comp Care Fee": "90;75",
+                "Access Bonus": "97;53",
+                "Total": "712;93"
+            }
+        }
+    }
+}
